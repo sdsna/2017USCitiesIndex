@@ -8,6 +8,7 @@ US city-level data from 2017 Index and Dashboards
 America is the world’s richest large economy, with the world’s leading technologies and institutions of higher learning. Yet, the United States of America (U.S.) is falling behind other countries on a range of indicators relating to quality-of-life, economic opportunity, and environmental management. Nowhere is this problem more apparent than in American cities, which are home to 62.7 percent of the domestic population. This U.S. Cities SDG Index aims to set a framework for action and help urban leaders address the many sustainable development challenges affecting their cities. The Index covers the 100 most populous cities (measured as Metropolitan Statistical Areas, or MSAs). It synthesizes data available today across 49 indicators spanning 16 of the 17 Sustainable Development Goals (SDGs) that were agreed upon by all countries in September 2015. The data provides a more holistic and comprehensive assessment of sustainable development challenges faced by U.S. cities than available through other metrics. Results show that all U.S. cities, even those at the top of the Index, have far to go to achieve the SDGs.
 
 For more information on this report, see http://unsdsn.org/resources/publications/us-cities-sdg-index/.
+
 For data from our other projects, see https://github.com/sdsna
 
 ## Data
